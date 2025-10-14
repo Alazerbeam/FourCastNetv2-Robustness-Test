@@ -17,6 +17,6 @@ The data to reproduce these figures is too large to store on GitHub. Here is a l
 In the scripts folder, the files noise_mode_pipeline.py and random_mode_pipeline.py call the functions in the other scripts to generate all forecasts and figures automatically.
 
 # Contact Me
-If you have any questions about this project, contact my at adamlizerbram@gmail.com.
+If you have any questions about this project, contact me at adamlizerbram@gmail.com.
 
 # References

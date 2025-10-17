@@ -16,8 +16,8 @@ The data to reproduce these figures is too large to store on GitHub. Here is a l
 # Computer Code for this Research Project
 In the scripts folder, the files noise_mode_pipeline.py and random_mode_pipeline.py call the functions in the other scripts to generate all forecasts and figures automatically. Use config.py to define your directories and steps the pipeline should complete.
 
-# Contact Me
-If you have any questions about this project, contact me at adamlizerbram@gmail.com.
+# Tutorial and Contact Me
+See Setting_Up_Earth2MIP.pdf for a step-by-step guide to using Earth-2 MIP. I would recommend using a Linux-based system, since Windows can have errors working with NetCDF files. If you have any questions about this project, contact me at adamlizerbram@gmail.com.
 
 # References
 Hersbach, H., and Coauthors, 2023a: ERA5 hourly data on pressure levels from 1940 to present. Accessed: 2025-08-19, https://cds.climate.copernicus.eu/datasets/reanalysis-era5-pressure-levels?tab=overview, https://doi.org/10.24381/cds.bd0915c6.
